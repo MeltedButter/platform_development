@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="packages/apps/Bluetooth/src"/>
+	<classpathentry kind="src" path="external/koush/Superuser/Superuser/src"/>
+	<classpathentry kind="src" path="external/koush/Widgets/Widgets/src"/>
 	<classpathentry kind="src" path="packages/apps/Browser/src"/>
 	<classpathentry kind="src" path="packages/apps/Calendar/extensions_src"/>
 	<classpathentry kind="src" path="packages/apps/Calculator/src"/>
@@ -132,8 +134,6 @@
 	<classpathentry kind="src" path="out/target/common/obj/APPS/TeleService_intermediates/src/src"/>
 	<classpathentry excluding="src/" kind="src" path="out/target/common/obj/JAVA_LIBRARIES/NfcLogTags_intermediates/src"/>
 	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/NfcLogTags_intermediates/src/src"/>
-	<classpathentry excluding="renderscript/src/" kind="src" path="out/target/common/obj/JAVA_LIBRARIES/android-common-carousel_intermediates/src"/>
-	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/android-common-carousel_intermediates/src/renderscript/src"/>
 	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/android_webview_java_intermediates/content/public/android/java/src"/>
 	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/android_webview_java_intermediates/src"/>
 	<classpathentry excluding="android/java/src/" kind="src" path="out/target/common/obj/JAVA_LIBRARIES/android_webview_java_intermediates/third_party/eyesfree/src"/>
