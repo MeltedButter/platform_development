@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="packages/apps/Bluetooth/src"/>
+	<classpathentry kind="src" path="dalvik/dx/src"/>
+	<classpathentry kind="src" path="frameworks/opt/meltedbutter/src/java"/>
 	<classpathentry kind="src" path="packages/apps/MBSettings/src"/>
 	<classpathentry kind="src" path="external/koush/Superuser/Superuser/src"/>
 	<classpathentry kind="src" path="external/koush/Widgets/Widgets/src"/>
